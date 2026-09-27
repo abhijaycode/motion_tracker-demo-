@@ -1,2 +1,2 @@
 # motion_tracker-demo-
-my first project
+This is my first python project 
